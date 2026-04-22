@@ -1,9 +1,9 @@
-<h1 align="center"><b>Hi , I'm Joaquín Farias Ovelar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Joaquín Farias </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 
 <p>I'm a computer science student at University Rey Juan Carlos, located in Madrid, Spain. </p>
-<p>I have most of my content related to front-end developing. </p>
+<p>I have most of my content related to front-end development. </p>
 <p>However, I have knowledge about data structures, object oriented programming, databases and so. </p>
 
 
@@ -35,14 +35,20 @@
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
+  <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
+
+  
+  
 </span>  
 
 <h4>Socials and contact</h4>
 <p>
-<a href="https://github.com/BlackDoubleB" target="_blank"><img alt="github"  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="http://linkedin.com/in/reyna-blacido-aparicio-a03558290" target="_blank"><img  alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:blancablacido@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/joaco-art" target="_blank"><img alt="github"  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="www.linkedin.com/in/joaquin-farias-ovelar-6066b9352" target="_blank"><img  alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:joaquinfcb305@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ------
