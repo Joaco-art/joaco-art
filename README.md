@@ -2,7 +2,7 @@
 
 
 
-<p>I'm a computer science student at University Rey Juan Carlos, located in Madrid, Spain. </p>
+<p>I'm a computer science student at Rey Juan Carlos University, located in Madrid, Spain. </p>
 <p>I have most of my content related to front-end development. </p>
 <p>However, I have knowledge about data structures, object oriented programming, databases and so. </p>
 
